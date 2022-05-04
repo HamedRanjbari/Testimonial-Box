@@ -91,3 +91,9 @@ body {
     transform: scaleX(0);
   }
 }
+@media screen and (max-width: 500px) {
+  .card{
+    width: 350px;
+    height: 500px;
+  }
+}
